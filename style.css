@@ -1,0 +1,18 @@
+#selectMenu {
+    width: 200px;
+}
+#searchBar {
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+header {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 10px;
+    padding-bottom: 20px;
+}
+
+.row p {
+    margin: 0;
+}
